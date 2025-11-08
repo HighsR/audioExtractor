@@ -44,7 +44,7 @@ The goal is to be a fast, no-fuss utility that you can run from your terminal or
 ### 1. Clone the Repository
 
 ```bash
-git clone [https://github.com/HighsR/audioExtractor.git](https://github.com/HighsR/audioExtractor.git)
+git clone https://github.com/HighsR/audioExtractor.git
 cd audioExtractor
 ```
 ### 2. Install Dependencies
